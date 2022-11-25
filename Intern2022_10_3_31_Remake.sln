@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Intern2022_10_3_31_Remake", "Intern2022_10_3_31_Remake\Intern2022_10_3_31_Remake.vcxproj", "{E0E0CD33-9679-4FB3-8E50-BD683331E18E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0E0CD33-9679-4FB3-8E50-BD683331E18E}.Debug|x64.ActiveCfg = Debug|x64
+		{E0E0CD33-9679-4FB3-8E50-BD683331E18E}.Debug|x64.Build.0 = Debug|x64
+		{E0E0CD33-9679-4FB3-8E50-BD683331E18E}.Release|x64.ActiveCfg = Release|x64
+		{E0E0CD33-9679-4FB3-8E50-BD683331E18E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FECC96B4-550E-4CDD-BC6D-D443B7E6EABE}
+	EndGlobalSection
+EndGlobal
